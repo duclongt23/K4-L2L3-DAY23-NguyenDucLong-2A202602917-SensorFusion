@@ -8,7 +8,7 @@
 - MSSV: 2A202602917
 - Email: duclongt23@gmail.com
 - Link repo (fork): https://github.com/duclongt23/K4-L2L3-DAY23-NguyenDucLong-2A202602917-SensorFusion
-- Commit hash nộp (`git rev-parse HEAD`): xem commit hash đã nộp trên LMS (commit cuối cùng trên `main`)
+- Commit hash nộp (`git rev-parse HEAD`): 3a02d96487991a0748bdcdd2d877b16ee8efd830
 
 ## Tóm tắt kết quả
 
